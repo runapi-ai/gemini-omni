@@ -1,6 +1,6 @@
 {
   "name": "gemini-omni",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "description": "RunAPI Gemini Omni skill for audio, character, and video workflows in Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
   "skills": [
     {

@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.3.0](https://github.com/runapi-ai/gemini-omni/releases/tag/v0.3.0) - 2026-07-20
+
+### Added
+- Add Gemini Omni Flash Preview model guidance, request examples, and pricing links.
+
+
 ## [v0.2.8](https://github.com/runapi-ai/gemini-omni/releases/tag/v0.2.8) - 2026-06-18
 
 ### Changed

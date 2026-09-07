@@ -1,5 +1,12 @@
 # Changelog
 
+## [v0.3.3](https://github.com/runapi-ai/gemini-omni/releases/tag/v0.3.3) - 2026-09-07
+
+### Added
+- Document gemini-omni-flash-1-1 video generation, frame controls, and supported resolutions.
+- Explain portrait and optional full-body character references, ordered images, and dual-image video reference units.
+
+
 ## [v0.3.2](https://github.com/runapi-ai/gemini-omni/releases/tag/v0.3.2) - 2026-08-12
 
 ### Changed
